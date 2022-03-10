@@ -1,0 +1,15 @@
+### Node ###
+
+# Dependency directories
+node_modules/
+.npm
+# dotenv environment variables file
+.env
+
+### VisualStudioCode ###
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
