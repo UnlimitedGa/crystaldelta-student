@@ -29,3 +29,14 @@ yarn start
 Open [http://localhost:8081](http://localhost:8081) to view it in the browser.
 
 The page will reload if you make edits.
+
+
+Back-End
+
+Postman-link-https://www.getpostman.com/collections/b147ab3637cb24ec6fba
+
+npm install
+
+npm run start:dev
+
+url-link-http://localhost:3001/api/v1/
